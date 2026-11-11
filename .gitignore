@@ -3,3 +3,7 @@
 !.gitignore
 !README.md
 !*.pdf
+!docs/
+!docs/images/
+!docs/images/*.jpg
+!docs/images/*.png
